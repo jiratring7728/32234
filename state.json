@@ -1,1 +1,4 @@
-{"visible": false, "image": "image2.png"}
+{
+  "state": "hide",
+  "image": "image.png"
+}
